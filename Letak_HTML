@@ -15,14 +15,14 @@ h1 {
 
 <h1>On-chain a Lightning Network</h1>
 <p>Klasická bitcoinová transakce je tzv. on-chain transakce, protože se provádějí zápisy přímo na blockchainu Bitcoinu. Tyto transakce vyžadují potvrzení sítí, což vyžaduje delší čas zápisu (několik minut až hodin) a větší transakční náklady (řádově jednotky USD). Proto jsou vhodné pro větší platby (cca > 500 USD).</p>
-<p>Lightning Network je vrstva nad blockchainem, která umožňuje rychlé (několik vteřin) a levné (několik haléřů) mikroplatby off-chain, což znamená bez přímého záznamu v blockchainu. Místo toho se transakční data ukládají do platebních kanálů a jsou aktualizována pouze ve chvíli, kdy je kanál uzavřen. Je to podobné pivním čárkám v hospodě, kdy se celková platba vyrovnává, nikoliv po každém pivu, ale až při odchodu domů.</p>
-<p>On-chain transakci si lze představit jako bankovní převod, zatímco Lightning Network je platba kreditní kartou.</p>
+<p>Lightning Network je vrstva nad blockchainem, která umožňuje rychlé (několik vteřin) a levné (řádově 0.01 USD) mikroplatby off-chain, což znamená bez přímého záznamu v blockchainu. Místo toho se transakční data ukládají do platebních kanálů a jsou aktualizována pouze ve chvíli, kdy je kanál uzavřen. Je to podobné pivním čárkám v hospodě, kdy se celková platba vyrovnává nikoliv po každém pivu, ale až při odchodu domů.</p>
+<p>On-chain transakci si lze představit jako bankovní převod, zatímco Lightning Network jako platbu kreditní kartou.</p>
 
 <h1>Proč bitcoin přijímat?</h1>
 <ul>
   <li>Poplatky při použití Lightning Network jsou minimální, nikoliv procenta z transakce jako u karet (2-6%).</li>
   <li>Je to jednoduché, nemusíte podepisovat žádné smlouvy, nepotřebujete žádný speciální platební terminál, stačí telefon nebo tablet s aplikací.</li>
-  <li>Platby jsou konečné, nehrozí vám zrušení nebo blokování transakce, a bitcoin ve vaší peněžence vám nikdo nemůže vzít.</li>
+  <li>Platby jsou konečné, nehrozí vám zrušení nebo blokování transakce, a bitcoin v peněžence nikdo nemůže vzít.</li>
   <li>Oslovíte nové zákazníky, komunita se o vás dozví přes sociální sítě, svoji firmu můžete propagovat přes bitcoinové mapy <a href="https://btcmap.org/">https://btcmap.org/</a>.</li>
 </ul>
 
@@ -38,7 +38,8 @@ h1 {
 </ol>
 
 <h1>Co dál?</h1>
-<p>Tento text má vzhledem ke svému formátu jen minimální ambice představit bitcoin a během několika minut umožnit bitcoin používat. Hlavní myšlenka je ovšem nástroj svobodného podnikání a k tomu vede cesta zodpovědnosti a vlastního vzdělávání. Komunita je velmi otevřená a vítá každého nováčka a to jak osobně na konferencích a setkáních, tak na veřejných kanálech sociálních sítí. Z mnoha zdrojů informací lze doporučit publikace Braiins: <a href="https://cs.braiins.com/category/publishing">https://cs.braiins.com/category/publishing</a>.</p>
+<p>Tento text má vzhledem ke svému formátu jen minimální ambice představit bitcoin a během několika minut umožnit bitcoin používat. Hlavní myšlenka je ovšem nástroj svobodného podnikání a k tomu vede cesta zodpovědnosti a vlastního vzdělávání. Komunita je velmi otevřená a vítá každého nováčka a to jak osobně na konferencích a setkáních, tak na veřejných kanálech sociálních sítí.<p>
+<p>Z mnoha zdrojů informací lze doporučit publikace Braiins: <a href="https://cs.braiins.com/category/publishing">https://cs.braiins.com/category/publishing</a>.</p>
 
 </body>
 </html>
